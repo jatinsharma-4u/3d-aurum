@@ -1,0 +1,4 @@
+# local editor/assistant settings
+.claude/
+Thumbs.db
+.DS_Store
